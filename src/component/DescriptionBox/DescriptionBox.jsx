@@ -1,3 +1,4 @@
+import React from "react"
 import "./descriptionbox.css"
 
  function DescriptionBox() {

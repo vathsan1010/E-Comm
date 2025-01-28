@@ -1,3 +1,4 @@
+import React from "react";
 import "./popular.css"
 import data_product from "../Assets/data";
 import Item from "../item/Item";

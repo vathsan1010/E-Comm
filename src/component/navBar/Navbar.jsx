@@ -1,4 +1,5 @@
 import "./navbar.css"
+import React from "react"
 import logo from "../Assets/logo.png"
 import cart_icon from "../Assets/cart_icon.png"
 import { useContext, useState } from "react"

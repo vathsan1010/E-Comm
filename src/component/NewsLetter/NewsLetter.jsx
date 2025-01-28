@@ -1,3 +1,4 @@
+import React from "react";
 import "./newsletter.css"
  function NewsLetter() {
   return (

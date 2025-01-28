@@ -1,3 +1,4 @@
+import React from "react";
 import Hero from "../component/Hero/Hero";
 import NewCollection from "../component/NewCollection/NewCollection";
 import Offers from "../component/Offers/Offers";

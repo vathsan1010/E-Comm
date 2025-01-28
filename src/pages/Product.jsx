@@ -1,3 +1,4 @@
+import React from "react";
  import { useContext } from "react";
  import { ShopContext } from "../context/ShopContext";
  import { useParams } from "react-router-dom";
