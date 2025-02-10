@@ -20,7 +20,7 @@ import remove_icon from "../Assets/cart_cross_icon.png"
         {
             return <div>
             <div className="cartitems-format cartitems-format-main">
-                <img src={e.image} className="carticon-product-icon" />
+                <img src={e.image} className="carticon-product-icon" alt="banner" />
                 <p>{e.name}</p>
                 <p>${e.new_price}</p>
                 <button className='cartitems-quantity'>{cartItems[e.id]}</button>
